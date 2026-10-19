@@ -9,18 +9,73 @@ I enjoy transforming data into meaningful insights, developing practical solutio
 
 ## 💻 Technical Skills
 
-**Programming:** Python, Java, SQL
+### Programming & Web Development
+- Python, Java, SQL
+- Flask, HTML, CSS, JavaScript
+- REST API Fundamentals
+- Object-Oriented Programming (OOP)
 
-**Data Analytics:** Pandas, NumPy, Data Cleaning, Data Visualization, NLP, Sentiment Analysis
+### Data Analytics & Business Intelligence
+- Data Analysis, Data Cleaning & Preprocessing
+- Pandas, NumPy, Matplotlib
+- Microsoft Excel, SQL Data Analysis
+- Data Visualization & Reporting
+- Business Intelligence Fundamentals
+- Power BI (Currently Learning)
+- KPI Tracking & Dashboard Development (Learning)
 
-**Databases:** MySQL, SQLAlchemy
+### Artificial Intelligence & NLP
+- Natural Language Processing (NLP)
+- Sentiment Analysis & Text Classification
+- VADER, TextBlob
+- Scikit-learn
+- Machine Learning Fundamentals
+- Text Preprocessing & Feature Extraction
 
-**Development:** Flask, HTML, CSS, JavaScript
+### Databases & Data Management
+- MySQL, SQLAlchemy
+- Database Design & Management
+- Relational Database Concepts
+- ERD, SQL Queries
+- Data Modeling
 
-**Business & Systems Analysis:** Requirements Analysis, SDLC, UML, Process Documentation
+### Systems Analysis & Business Processes
+- Systems Analysis & Design
+- Requirements Gathering & Analysis
+- SDLC, UML, Use Case & Sequence Diagrams
+- Data Flow Diagrams (DFD)
+- SRS & SDD Documentation
+- Business Process Analysis
+- Agile / Scrum Fundamentals
+- Root Cause Analysis (Foundational)
+- Lean & Six Sigma (Currently Learning)
 
-**Tools:** Excel, Power BI (Learning), Jupyter Notebook, Git, GitHub,kali linux,
+### Cybersecurity & Networking
+- Information Security Fundamentals
+- Network Security Fundamentals
+- TCP/IP, DNS, IP Addressing
+- Network Troubleshooting
+- Kali Linux
+- Nmap, Wireshark
+- Firewalls, IDS/IPS, SIEM Fundamentals
+- Security Monitoring & Log Analysis Concepts
 
+### IT Infrastructure & Support
+- Microsoft Active Directory (Familiarity)
+- Microsoft 365 Admin Center (Familiarity)
+- Identity & Access Management Concepts
+- Windows & Linux Fundamentals
+- IT Support & Troubleshooting
+- Networking & System Administration Concepts
+
+### Tools & Technologies
+- Git, GitHub
+- Visual Studio Code, Jupyter Notebook
+- Microsoft Office
+- Power BI (Learning)
+- XAMPP
+- Flask, SQLAlchemy
+  
 ## 🎓 Certifications
 
 **IBM Data Analyst Professional Certificate** — IBM via Coursera (2026)
