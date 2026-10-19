@@ -3,7 +3,7 @@
 
 ### Information Systems Graduate | Data Analytics & Cybersecurity
 
-I'm an Information Systems graduate from King Khalid University, Saudi Arabia, with a concentration in Cybersecurity and a strong interest in Data Analytics, Business Intelligence, and Systems Analysis.
+I'm an Information Systems graduate from King Khalid University, Saudi Arabia, with a concentration in Cybersecurity and a strong interest in Data Analytics, Business Intelligence, and Systems Analysis ,cybersecurity.
 
 I enjoy transforming data into meaningful insights, developing practical solutions, and continuously expanding my technical skills.
 
