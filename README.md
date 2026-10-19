@@ -1,5 +1,5 @@
 
-# Hi, I'm Nourah Jari Alqarni 👋
+# Hi, I'm Nourah Jari Alqarni <3
 
 ### Information Systems Graduate | Data Analytics & Cybersecurity
 
