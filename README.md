@@ -21,7 +21,7 @@ I enjoy transforming data into meaningful insights, developing practical solutio
 - Microsoft Excel, SQL Data Analysis
 - Data Visualization & Reporting
 - Business Intelligence Fundamentals
-- Power BI (Currently Learning)
+- Power BI 
 - KPI Tracking & Dashboard Development (Learning)
 
 ### Artificial Intelligence & NLP
